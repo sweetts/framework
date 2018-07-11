@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<datasources>
+    <datasource id="defaultDataSource">
+        <property name="username" value="">11</property>
+        <property name="password" value="">22</property>
+        <property name="url" value="3">33</property>
+        <property name="driverClassName" value="4">44</property>
+    </datasource>
+</datasources>
